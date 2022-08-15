@@ -46,12 +46,11 @@
 ===============
     git branch
     - Выводим список веток в репозитории
-
     git branch new_branch_name
     - создаем новую ветку с именем new_branch_name
     git merge branch_name
     - Сливает ветку branch_name с текущей веткой 
-      git branch -d branch_to_delete
+    git branch -d branch_to_delete
     - удаляем ветку с именем new_branch_name
     git checkout branch_name
     - Переходим на ветку branch_name
