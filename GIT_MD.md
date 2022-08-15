@@ -49,5 +49,7 @@
     - удаляем ветку с именем new_branch_name
     *git checkout branch_name*
     - Переходим на ветку branch_name 
+    *git merge branch_name*
+    - cливает ветку branch_name с текущей веткой
 
  
